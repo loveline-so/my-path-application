@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mypath</string>
+    <string name="pourcent">48%</string>
+    <string name="pourcent2">80%</string>
+    <string name="heure">9:49 PM</string>
+    <string name="heure2">6:30 PM</string>
+    <string name="mon_alert">Alert</string>
+    <string name="emergency_alert">Emergency</string>
+</resources>
